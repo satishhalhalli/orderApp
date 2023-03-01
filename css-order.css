@@ -1,0 +1,38 @@
+.container1 {
+    margin: auto;
+    border: 5px solid rgb(30, 22, 22);
+    width: 50%;
+    background-color: lightgray;
+  }
+  
+  
+  .container2{
+    margin-top: 15px;
+  
+  }
+  
+  .button{
+    
+    background-color: rgb(0, 244, 53); 
+    border: 2px solid rgb(182, 230, 27);
+    color: red;
+    
+    
+  }
+  
+  .body{
+    background-color: rgb(126, 73, 175);
+    margin: auto;
+  }
+  
+  .table1{
+    background-color: blue;
+  }
+  
+  .table2{
+    background-color: chocolate;
+  }
+  
+  .table3{
+    background-color:lightcoral ;
+  }
